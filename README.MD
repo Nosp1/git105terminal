@@ -6,3 +6,5 @@ Glemte å si takk for idag
 
 Nå er det snart helg
 noen galt
+noe helt annet
+
